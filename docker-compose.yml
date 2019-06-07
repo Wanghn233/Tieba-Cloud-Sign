@@ -2,7 +2,7 @@ version: '3'
 services:
 
   web:
-    image: "zsnmwy/tieba-cloud-sign"
+    image: "Wanghn233/tieba-cloud-sign"
     environment:
       DB_HOST: db:3306
       DB_USER: root
